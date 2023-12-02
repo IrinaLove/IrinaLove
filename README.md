@@ -5,7 +5,7 @@
 1. Инструменты анализа данных:SQL,Excel
 2. Языки программирования и библиотеки: Python, Pandas, math
 3. Системы управления базами данных: MySQL, PostgreSQL
-4. Средства визуализации данных: PowerBi, Matplotlib, Seaborn
+4. Средства визуализации данных: Matplotlib, Seaborn
 5. Инструменты для машинного обучения:scikit-learn, TensorFlow
 
    МОИ ПРОЕКТЫ:
